@@ -11,7 +11,7 @@ owner:
   bio: "NCSU Libraries Fellow"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: @tori_culler
+  twitter: "@tori_culler"
   linkedin: #username
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
@@ -23,7 +23,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: @tori.in.stitches
+  instagram: "@tori.in.stitches"
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
